@@ -10,4 +10,5 @@
    "danger-changelog",
    "danger-mention",
    "danger-duplicate_localizable_strings"
+   "danger-missed_localizable_strings"
 ]
